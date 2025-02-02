@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">.<br><br>I am a video game developer specialising in technical art and VFX, combining creativity with technical precision to create immersive experiences.<br>I mainly work with Unity (c#) and Unreal (c++), with additional skills in web development and programming in C.<br>I also Looove art and I can create beautyfull 3d environments / incredible VFX / pixel art game style.<br><br>.</p>
+<p align="center">.<br><br>I am a video game developer specialising in technical art and VFX, combining creativity with technical precision to create immersive experiences.<br>I mainly work with Unity (c#) and Unreal (c++), with additional skills in web development and programming in C.<br>I also Looove art and I can create beautyful 3d environments / incredible VFX / pixel art game style.<br><br>.</p>
 
 ###
 
