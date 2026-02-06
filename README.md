@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Angela and im a Game developer and VFX artist</h2>
+<h2 align="center">My name is Angela and im a Game developer and technical artist</h2>
 
 ###
 
